@@ -8,7 +8,7 @@ demo:
 
 ## Usage
 #### Step 1
-#####Gradle & Maven
+##### Gradle & Maven
 ```groovy
 dependencies {
     // I have released it but it may not update to maven center, if your maven can not find it, wait a moment please.
@@ -25,7 +25,7 @@ dependencies {
 ```
 
 
-#####Or
+##### Or
 
 Import the library, then add it to your `/settings.gradle` and `/app/build.gradle`, if you don't know how to do it, you can read my blog for help.
 
